@@ -1,0 +1,35 @@
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    
+}
+  
+.form {
+    width: 650px;
+}
+
+.card-body {
+    margin-top: 0px;
+}
+
+.card-header {
+    background-color: #EF8426;
+    color: white;
+}
+
+.mdbcontainer {
+    background-color: #f5f5f5;
+}
+
+.buttonlogin {
+    width: 300px;
+    background-color: #EF8426;
+    color: black;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 40px;
+}
